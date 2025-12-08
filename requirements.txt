@@ -1,5 +1,6 @@
-flet
 pdf2docx
-docx2pdf
-pypdf
-docxcompose
+pymupdf
+pytesseract
+pdf2image
+tqdm
+python-docx
